@@ -1,7 +1,7 @@
 # Ghost
 
 **Category:** Misc<br>
-**Difficulty:** Easy 🍭<br>
+**Difficulty:** Medium<br>
 **Points:** 50
 
 ## Challenge Description

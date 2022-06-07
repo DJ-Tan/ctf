@@ -15,6 +15,6 @@ Here's to the start of another CTF. As mentioned, join the [discord server](http
 
 Refer to the first message sent in the channel by mechfrog88 on 05/04/2022. On the 3rd line of the message, the flag is displayed as an example flag.
 
-![](\images\welcome_1.png)
+![](./images/welcome_1.png)
 
 `Flag: grey{1_h4ve_read_da_rules_and_4gr33}`
