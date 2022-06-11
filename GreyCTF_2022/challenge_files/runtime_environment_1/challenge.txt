@@ -1,0 +1,12 @@
+First Output: GvVf+fHWz1tlOkHXUk3kz3bqh4UcFFwgDJmUDWxdDTTGzklgIJ+fXfHUh739+BUEbrmMzGoQOyDIFIz4GvTw+j--
+First Input: X47gzutoh1zMUyWvU2zunI+kDBUGXfDQVuz+LFw7zUzIOduoS2zunb3dSI7gX1mf 
+
+Second output: X47gzutoh1zMUyWvU2zunI+kDBUGXfDQVuz+LFw7zUzIOduoS2zunb3dSI7gX1mf 
+Second input: 6y+wOyxgzWmCV7tq6WDuV7tbCGY9+duWS2m9n7tqIfm9+4b
+
+Third output: 6y+wOyxgzWmCV7tq6WDuV7tbCGY9+duWS2m9n7tqIfm9+4b
+Third input: +fm3hkwRXBOr+TtBOTalOfm5n2OrOrOrOfu
+
+Fourth output: +fm3hkwRXBOr+TtBOTalOfm5n2OrOrOrOfu
+Fourth input: grey{B4s3d_G0Ph3r_r333333}
+
