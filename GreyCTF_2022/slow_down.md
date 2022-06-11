@@ -2,7 +2,7 @@
 
 **Category:** Misc<br>
 **Difficulty:** Hard 🩸<br>
-**Points:** TBD
+**Points:** 346
 
 ## Challenge Description
 

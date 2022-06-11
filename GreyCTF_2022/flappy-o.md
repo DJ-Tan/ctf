@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering<br>
 **Difficulty:** Medium<br>
-**Points:** TBD
+**Points:** 181
 
 ## Challenge Description
 

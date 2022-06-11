@@ -1,4 +1,4 @@
-# Ghost
+# Image Upload
 
 **Category:** Misc<br>
 **Difficulty:** Easy 🍭<br>

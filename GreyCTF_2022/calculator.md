@@ -2,7 +2,7 @@
 
 **Category:** Misc<br>
 **Difficulty:** Medium<br>
-**Points:** TBD
+**Points:** 50
 
 ## Challenge Description
 
